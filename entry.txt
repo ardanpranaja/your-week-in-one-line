@@ -1,0 +1,1 @@
+Shipped 17 bounties, failed two transcript checks, rewrote both by hand — my week, in one diff.
